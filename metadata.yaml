@@ -1,0 +1,22 @@
+_repo: The-Marylebone-Penny-Readings-and-Their-Critics_53888
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, Henry
+    gutenberg_agent_id: '47590'
+    url: http://www.gutenberg.org/2009/agents/47590
+description: ''
+gutenberg_issued: '2017-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marylebone Penny Readings'
+- !lcc 'PN'
+- GITenberg
+title: The Marylebone Penny Readings and Their Critics
+url: http://www.gutenberg.org/ebooks/53888
